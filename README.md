@@ -1,5 +1,6 @@
 # Xenforo Emergency
-!(Xenforo Emergency)[https://dev.paytr.com/user/pages/14.moduller/07.xenforo/features-xenforo.png]
+!(Xenforo Emergency)[]
+![Açıklama]([https://example.com/resim.png](https://dev.paytr.com/user/pages/14.moduller/07.xenforo/features-xenforo.png))
 
 To recover your Xenforo password, a generated php file.
 
